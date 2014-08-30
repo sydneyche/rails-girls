@@ -13,17 +13,17 @@
  *= require_tree .
  *= require_self
  */
-body { padding-top: 50px; }
+body { padding-top: 60px; }
 footer { margin-top: 50px; }
 table, td, th { vertical-align: middle; border: none; }
 th { border-bottom: 1px solid #fff; }
 
 .navbar {
-    min-height: 50px;
-  background-color: #ffffff;
+    min-height: 35px;
+  background-color: #d6ecf0;
 }
 
-.navbar a.brand { font-size: 11px; }
+.navbar a.brand { font-size: 10px; }
 .navbar a.brand:hover {
  color: #fff;
  background-color: transparent;
